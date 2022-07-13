@@ -1,0 +1,4 @@
+Comandos do Git Bash
+O Git Bash é empacotado com comandos adicionais que podem ser encontrados no diretório /usr/bin da emulação. O Git Bash pode oferecer experiências robustas de shell no Windows. Ele é empacotado com os comandos de shell a seguir, que estão fora do escopo desse documento Ssh, scp, cat, find.
+
+Além do conjunto mencionado de comandos do Bash, o Git Bash inclui o conjunto completo dos principais comandos do Git discutidos nesse site. Saiba mais nas páginas de documentação correspondentes do git clone, git commit, git checkout, git push e muito mais.
